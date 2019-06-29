@@ -1,0 +1,25 @@
+{
+  "name": "testserverlessfunc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "netlify-lambda": "^1.4.13"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "netlify-lambda serve functions",
+    "build": "netlify-lambda build functions"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshnashgithub/testserverlessfunc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshnashgithub/testserverlessfunc/issues"
+  },
+  "homepage": "https://github.com/joshnashgithub/testserverlessfunc#readme"
+}
